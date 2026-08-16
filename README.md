@@ -7,34 +7,34 @@ ________________________________________
 2. Functional Requirements
 The Finance Management module should provide the following functions:
 1.	Expense Management 
-o	Add and record business expenses. 
-o	Categorize expenses. 
-o	Upload expense receipts. 
-o	View, edit, and delete expense records. 
+   o	Add and record business expenses.
+   o	Categorize expenses. 
+   o	Upload expense receipts. 
+   o	View, edit, and delete expense records. 
 o	Track expense status. 
-2.	Invoice Management 
+3.	Invoice Management 
 o	Create and store invoices. 
 o	Record invoice details. 
 o	Track invoice status. 
 o	Store invoice documents. 
 o	Monitor pending and completed invoices. 
-3.	Budget Management 
+4.	Budget Management 
 o	Create budgets for projects/departments. 
 o	Define allocated budget amounts. 
 o	Track actual spending against budget. 
 o	Display remaining budget. 
 o	Generate budget reports. 
-4.	Approval Management 
+5.	Approval Management 
 o	Submit expenses/invoices for approval. 
 o	Allow authorized users/managers to approve or reject requests. 
 o	Maintain approval status and history. 
-5.	Financial Reports 
+6.	Financial Reports 
 o	Expense reports. 
 o	Budget utilization reports. 
 o	Invoice reports. 
 o	Pending approval reports. 
 o	Financial summaries. 
-6.	Anomaly Detection 
+7.	Anomaly Detection 
 o	Identify unusual expenses. 
 o	Detect transactions that differ significantly from normal spending patterns. 
 o	Alert authorized users about suspicious transactions. 
